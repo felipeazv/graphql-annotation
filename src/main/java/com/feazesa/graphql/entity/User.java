@@ -7,10 +7,7 @@ import com.feazesa.graphql.utils.SchemaUtils;
 
 import graphql.annotations.GraphQLField;
 import graphql.annotations.GraphQLName;
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
 
 @Data
 @GraphQLName(SchemaUtils.USER)
